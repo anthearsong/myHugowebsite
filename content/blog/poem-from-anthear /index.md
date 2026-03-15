@@ -5,7 +5,9 @@ date: 2026-03-15
 tags: ["poetry", "nature"]
 categories: ["poems"]
 ---
-**After “晚安”**
+<h2 style="text-align:center; color:#555555; font-weight:bold;">
+After “晚安”
+</h2>
 <div style="color:#555555; text-align:center;">
 <br><br>
 
@@ -24,7 +26,7 @@ categories: ["poems"]
 
 四颗星星围着
 
-她在教堂上空跳舞。
+她在教堂上空跳舞
 
 <br><br>
 
