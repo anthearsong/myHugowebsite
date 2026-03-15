@@ -6,7 +6,7 @@ tags: ["poetry", "nature"]
 categories: ["poems"]
 ---
 **After “晚安”**
-<div style="color:#98FFEB;">
+<div style="color:#555555; text-align:center;">
 <br><br>
 
 她关上了灯
